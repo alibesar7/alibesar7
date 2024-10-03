@@ -7,4 +7,4 @@ Ali Besar
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alibesar7&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="Top Langs" /> <img src="https://github-readme-stats.vercel.app/api?username=alibesar7&show_icons=true&locale=en&theme=highcontrast" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=alibesar7&theme=highcontrast" alt="GitHub Streak" /> </p>
 👁 Profile Views
-<p align="center"> <a href="https://komarev.com/ghpvc/?username=alibesar7&style=for-the-badge&color=red"> <img src="https://komarev.com/ghpvc/?username=mhmodfrmwi&style=for-the-badge&color=red" alt="Profile Views"> </a> </p>
+<p align="center"> <a href="https://komarev.com/ghpvc/?username=alibesar7&style=for-the-badge&color=red"> <img src="https://komarev.com/ghpvc/?username=alibesar7&style=for-the-badge&color=red" alt="Profile Views"> </a> </p>
