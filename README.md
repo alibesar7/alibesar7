@@ -8,7 +8,8 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/mhmodfrmwi/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20ur%20Tribal%20Chief;&font=Fira%20Code&center=true&width=440&height=45&color=FF5733&vCenter=true&size=22">
+   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Ali+%E2%80%93+Mobile+Developer&font=Fira+Code&center=true&width=600&height=50&color=FF5733&vCenter=true&size=24">
+
   </a>
 </p>
 
